@@ -1,7 +1,8 @@
 package main
 
-import numberguessing "github.com/pyaephyomaung1/NumberGuessing"
+import "fmt"
 
 func main() {
-	numberguessing.NumberGuessing()
+	// numberguessing.NumberGuessing()
+	fmt.Println("♄")
 }
